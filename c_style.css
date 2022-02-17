@@ -7,3 +7,9 @@ h2 {
 hr{
   border-top: 4px dotted red;
 }
+input[type=submit] {
+
+ padding:6px 10px;
+ background-color: #3E497A;
+ color: white;
+}
